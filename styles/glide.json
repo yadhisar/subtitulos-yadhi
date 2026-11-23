@@ -1,0 +1,20 @@
+{
+  "name": "glide",
+  "label": "Glide",
+  "description": "Sans blanca bold; la palabra clave en script caligráfica grande y los números en serif itálica.",
+  "font": { "family": "Inter Bold", "file": "Inter-Bold.ttf", "weight": 700 },
+  "emphasisFont": { "family": "Pinyon Script", "file": "PinyonScript-Regular.ttf", "weight": 400 },
+  "numberFont": { "family": "Playfair Display Medium Italic", "file": "PlayfairDisplay-MediumItalic.ttf", "weight": 500 },
+  "case": "sentence",
+  "size": 3.6,
+  "lineHeight": 1.2,
+  "letterSpacing": 0,
+  "color": "#FFFFFF",
+  "activeColor": { "auto": "accent", "fallback": "#F5E663" },
+  "shadow": { "x": 0, "y": 3, "blur": 10, "color": "rgba(0,0,0,0.55)" },
+  "position": { "y": 55, "marginX": 6, "flex": [36, 72] },
+  "page": { "maxWords": 5, "maxCharsPerLine": 24, "maxCharsPerLineWide": 40, "maxLines": 1, "minFrames": 14, "maxFrames": 75, "gapBreakMs": 350 },
+  "anim": { "type": "glide", "scriptScale": 2.6, "numberScale": 1.6, "scriptIn": 6, "scriptFrom": 0.15, "wordIn": 3, "pageOut": 3, "glow": 0.45 },
+  "behind": { "enabled": false },
+  "legibility": { "mode": "halo", "max": 1 }
+}

@@ -1,0 +1,33 @@
+{
+  "name": "keyword",
+  "label": "Keyword (detrás de ti)",
+  "description": "Una palabra gigante detrás de la persona y la línea pequeña delante. Los números siempre van delante.",
+  "font": { "family": "Inter SemiBold", "file": "Inter-SemiBold.ttf", "weight": 600 },
+  "case": "lower",
+  "size": 3.3,
+  "lineHeight": 1.3,
+  "letterSpacing": 0,
+  "color": "#F4F5F0",
+  "activeColor": { "auto": "accent", "fallback": "#D6FCA5" },
+  "shadow": { "x": 0, "y": 2, "blur": 8, "color": "rgba(0,0,0,0.45)" },
+  "position": { "y": 57, "marginX": 7, "flex": [40, 70] },
+  "page": { "maxWords": 4, "maxCharsPerLine": 26, "maxCharsPerLineWide": 44, "maxLines": 1, "minFrames": 12, "maxFrames": 90, "gapBreakMs": 350 },
+  "anim": { "type": "keyword", "bigIn": 6, "bigOut": 3, "slide": 6, "overshoot": 1.12, "smallIn": 4, "smallRise": 1.2 },
+  "behind": {
+    "enabled": true,
+    "bigFont": { "family": "Anton", "file": "Anton-Regular.ttf", "weight": 400 },
+    "bigColor": { "auto": "accent", "fallback": "#D6FCA5" },
+    "bigY": 30,
+    "bigWidth": 92,
+    "bigMaxSize": 24,
+    "frontY": 73,
+    "frontWidth": 74,
+    "frontMaxSize": 11,
+    "maxChars": 9,
+    "minHoldMs": 900,
+    "everyMs": 1700,
+    "minGapMs": 150,
+    "minVisible": 0.55
+  },
+  "legibility": { "mode": "halo", "max": 1 }
+}

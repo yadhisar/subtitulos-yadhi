@@ -1,0 +1,451 @@
+{
+ "version": 1,
+ "language": "es",
+ "model": "fixture",
+ "words": [
+  {
+   "text": "Hola,",
+   "startMs": 300,
+   "endMs": 630,
+   "prob": 0.95
+  },
+  {
+   "text": "soy",
+   "startMs": 870,
+   "endMs": 1155,
+   "prob": 0.95
+  },
+  {
+   "text": "Yadhi",
+   "startMs": 1215,
+   "endMs": 1590,
+   "prob": 0.95
+  },
+  {
+   "text": "y",
+   "startMs": 1650,
+   "endMs": 1845,
+   "prob": 0.95
+  },
+  {
+   "text": "hoy",
+   "startMs": 1905,
+   "endMs": 2190,
+   "prob": 0.95
+  },
+  {
+   "text": "te",
+   "startMs": 2250,
+   "endMs": 2490,
+   "prob": 0.95
+  },
+  {
+   "text": "cuento",
+   "startMs": 2550,
+   "endMs": 2970,
+   "prob": 0.95
+  },
+  {
+   "text": "algo",
+   "startMs": 3030,
+   "endMs": 3360,
+   "prob": 0.95
+  },
+  {
+   "text": "de",
+   "startMs": 3420,
+   "endMs": 3660,
+   "prob": 0.95
+  },
+  {
+   "text": "TikTok.",
+   "startMs": 3720,
+   "endMs": 4140,
+   "prob": 0.95
+  },
+  {
+   "text": "En",
+   "startMs": 4650,
+   "endMs": 4890,
+   "prob": 0.95
+  },
+  {
+   "text": "Lima",
+   "startMs": 4950,
+   "endMs": 5280,
+   "prob": 0.95
+  },
+  {
+   "text": "este",
+   "startMs": 5340,
+   "endMs": 5670,
+   "prob": 0.95
+  },
+  {
+   "text": "año",
+   "startMs": 5730,
+   "endMs": 6015,
+   "prob": 0.95
+  },
+  {
+   "text": "los",
+   "startMs": 6075,
+   "endMs": 6360,
+   "prob": 0.95
+  },
+  {
+   "text": "creadores",
+   "startMs": 6420,
+   "endMs": 6975,
+   "prob": 0.95
+  },
+  {
+   "text": "movieron",
+   "startMs": 7035,
+   "endMs": 7545,
+   "prob": 0.95
+  },
+  {
+   "text": "mil",
+   "startMs": 7605,
+   "endMs": 7890,
+   "prob": 0.95
+  },
+  {
+   "text": "ochocientos",
+   "startMs": 7950,
+   "endMs": 8595,
+   "prob": 0.95
+  },
+  {
+   "text": "millones",
+   "startMs": 8655,
+   "endMs": 9165,
+   "prob": 0.95
+  },
+  {
+   "text": "de",
+   "startMs": 9225,
+   "endMs": 9465,
+   "prob": 0.95
+  },
+  {
+   "text": "soles.",
+   "startMs": 9525,
+   "endMs": 9900,
+   "prob": 0.95
+  },
+  {
+   "text": "Si",
+   "startMs": 10410,
+   "endMs": 10650,
+   "prob": 0.95
+  },
+  {
+   "text": "publicas",
+   "startMs": 10710,
+   "endMs": 11220,
+   "prob": 0.95
+  },
+  {
+   "text": "en",
+   "startMs": 11280,
+   "endMs": 11520,
+   "prob": 0.95
+  },
+  {
+   "text": "Instagram",
+   "startMs": 11580,
+   "endMs": 12135,
+   "prob": 0.95
+  },
+  {
+   "text": "y",
+   "startMs": 12195,
+   "endMs": 12390,
+   "prob": 0.95
+  },
+  {
+   "text": "no",
+   "startMs": 12450,
+   "endMs": 12690,
+   "prob": 0.95
+  },
+  {
+   "text": "respondes",
+   "startMs": 12750,
+   "endMs": 13305,
+   "prob": 0.95
+  },
+  {
+   "text": "rápido,",
+   "startMs": 13365,
+   "endMs": 13785,
+   "prob": 0.95
+  },
+  {
+   "text": "pierdes",
+   "startMs": 14025,
+   "endMs": 14490,
+   "prob": 0.95
+  },
+  {
+   "text": "el",
+   "startMs": 14550,
+   "endMs": 14790,
+   "prob": 0.95
+  },
+  {
+   "text": "cuarenta",
+   "startMs": 14850,
+   "endMs": 15360,
+   "prob": 0.95
+  },
+  {
+   "text": "por",
+   "startMs": 15420,
+   "endMs": 15705,
+   "prob": 0.95
+  },
+  {
+   "text": "ciento",
+   "startMs": 15765,
+   "endMs": 16185,
+   "prob": 0.95
+  },
+  {
+   "text": "de",
+   "startMs": 16245,
+   "endMs": 16485,
+   "prob": 0.95
+  },
+  {
+   "text": "tus",
+   "startMs": 16545,
+   "endMs": 16830,
+   "prob": 0.95
+  },
+  {
+   "text": "seguidores.",
+   "startMs": 16890,
+   "endMs": 17490,
+   "prob": 0.95
+  },
+  {
+   "text": "Con",
+   "startMs": 18000,
+   "endMs": 18285,
+   "prob": 0.95
+  },
+  {
+   "text": "buenos",
+   "startMs": 18345,
+   "endMs": 18765,
+   "prob": 0.95
+  },
+  {
+   "text": "subtítulos",
+   "startMs": 18825,
+   "endMs": 19425,
+   "prob": 0.95
+  },
+  {
+   "text": "la",
+   "startMs": 19485,
+   "endMs": 19725,
+   "prob": 0.95
+  },
+  {
+   "text": "gente",
+   "startMs": 19785,
+   "endMs": 20160,
+   "prob": 0.95
+  },
+  {
+   "text": "se",
+   "startMs": 20220,
+   "endMs": 20460,
+   "prob": 0.95
+  },
+  {
+   "text": "queda",
+   "startMs": 20520,
+   "endMs": 20895,
+   "prob": 0.95
+  },
+  {
+   "text": "tres",
+   "startMs": 20955,
+   "endMs": 21285,
+   "prob": 0.95
+  },
+  {
+   "text": "veces",
+   "startMs": 21345,
+   "endMs": 21720,
+   "prob": 0.95
+  },
+  {
+   "text": "más,",
+   "startMs": 21780,
+   "endMs": 22065,
+   "prob": 0.95
+  },
+  {
+   "text": "pero",
+   "startMs": 22305,
+   "endMs": 22635,
+   "prob": 0.95
+  },
+  {
+   "text": "ojo",
+   "startMs": 22695,
+   "endMs": 22980,
+   "prob": 0.95
+  },
+  {
+   "text": "con",
+   "startMs": 23040,
+   "endMs": 23325,
+   "prob": 0.95
+  },
+  {
+   "text": "los",
+   "startMs": 23385,
+   "endMs": 23670,
+   "prob": 0.95
+  },
+  {
+   "text": "videos",
+   "startMs": 23730,
+   "endMs": 24150,
+   "prob": 0.95
+  },
+  {
+   "text": "largos:",
+   "startMs": 24210,
+   "endMs": 24630,
+   "prob": 0.95
+  },
+  {
+   "text": "lo",
+   "startMs": 25140,
+   "endMs": 25380,
+   "prob": 0.95
+  },
+  {
+   "text": "vimos",
+   "startMs": 25440,
+   "endMs": 25815,
+   "prob": 0.95
+  },
+  {
+   "text": "en",
+   "startMs": 25875,
+   "endMs": 26115,
+   "prob": 0.95
+  },
+  {
+   "text": "dos",
+   "startMs": 26175,
+   "endMs": 26460,
+   "prob": 0.95
+  },
+  {
+   "text": "mil",
+   "startMs": 26520,
+   "endMs": 26805,
+   "prob": 0.95
+  },
+  {
+   "text": "veinticuatro.",
+   "startMs": 26865,
+   "endMs": 27555,
+   "prob": 0.95
+  },
+  {
+   "text": "Un",
+   "startMs": 28065,
+   "endMs": 28305,
+   "prob": 0.95
+  },
+  {
+   "text": "video",
+   "startMs": 28365,
+   "endMs": 28740,
+   "prob": 0.95
+  },
+  {
+   "text": "que",
+   "startMs": 28800,
+   "endMs": 29085,
+   "prob": 0.95
+  },
+  {
+   "text": "te",
+   "startMs": 29145,
+   "endMs": 29385,
+   "prob": 0.95
+  },
+  {
+   "text": "cuesta",
+   "startMs": 29445,
+   "endMs": 29865,
+   "prob": 0.95
+  },
+  {
+   "text": "cinco",
+   "startMs": 29925,
+   "endMs": 30300,
+   "prob": 0.95
+  },
+  {
+   "text": "mil",
+   "startMs": 30360,
+   "endMs": 30645,
+   "prob": 0.95
+  },
+  {
+   "text": "soles",
+   "startMs": 30705,
+   "endMs": 31080,
+   "prob": 0.95
+  },
+  {
+   "text": "nunca",
+   "startMs": 31140,
+   "endMs": 31515,
+   "prob": 0.95
+  },
+  {
+   "text": "rinde",
+   "startMs": 31575,
+   "endMs": 31950,
+   "prob": 0.95
+  },
+  {
+   "text": "si",
+   "startMs": 32010,
+   "endMs": 32250,
+   "prob": 0.95
+  },
+  {
+   "text": "nadie",
+   "startMs": 32310,
+   "endMs": 32685,
+   "prob": 0.95
+  },
+  {
+   "text": "lo",
+   "startMs": 32745,
+   "endMs": 32985,
+   "prob": 0.95
+  },
+  {
+   "text": "entiende.",
+   "startMs": 33045,
+   "endMs": 33555,
+   "prob": 0.95
+  }
+ ]
+}

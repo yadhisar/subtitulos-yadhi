@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+template/node_modules/
+template/out/
+tests/out/
+*.mov
+*.subtitulado.mp4
+.subtitulos/
+.remotion/

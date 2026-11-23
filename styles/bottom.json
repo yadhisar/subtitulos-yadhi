@@ -1,0 +1,19 @@
+{
+  "name": "bottom",
+  "label": "Bottom",
+  "description": "Mayúsculas grandes abajo al centro (dentro de la zona segura), palabra por palabra; la palabra clave en amarillo.",
+  "font": { "family": "Montserrat Black", "file": "Montserrat-Black.ttf", "weight": 900 },
+  "case": "upper",
+  "size": 5.4,
+  "lineHeight": 1.1,
+  "letterSpacing": 0,
+  "color": "#FFFFFF",
+  "activeColor": "#FFD60A",
+  "stroke": { "width": 0.11, "color": "#000000" },
+  "shadow": { "x": 0, "y": 6, "blur": 0, "color": "rgba(0,0,0,0.85)" },
+  "position": { "y": 70, "marginX": 7, "flex": [58, 74] },
+  "page": { "maxWords": 3, "maxCharsPerLine": 16, "maxCharsPerLineWide": 26, "maxLines": 1, "minFrames": 10, "maxFrames": 45, "gapBreakMs": 300 },
+  "anim": { "type": "bottom", "pop": 1.18, "popIn": 4 },
+  "behind": { "enabled": false },
+  "legibility": { "mode": "outline", "max": 1 }
+}

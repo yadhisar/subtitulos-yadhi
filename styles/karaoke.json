@@ -1,0 +1,19 @@
+{
+  "name": "karaoke",
+  "label": "Karaoke",
+  "description": "La línea completa visible; la palabra que se está diciendo cambia al color de acento.",
+  "font": { "family": "Montserrat ExtraBold", "file": "Montserrat-ExtraBold.ttf", "weight": 800 },
+  "case": "sentence",
+  "size": 3.7,
+  "lineHeight": 1.25,
+  "letterSpacing": 0,
+  "color": "#FFFFFF",
+  "dimColor": "rgba(255,255,255,0.62)",
+  "activeColor": { "auto": "accent", "fallback": "#3DDC97" },
+  "shadow": { "x": 0, "y": 3, "blur": 8, "color": "rgba(0,0,0,0.6)" },
+  "position": { "y": 60, "marginX": 7, "flex": [36, 72] },
+  "page": { "maxWords": 8, "maxCharsPerLine": 22, "maxCharsPerLineWide": 38, "maxLines": 2, "minFrames": 14, "maxFrames": 110, "gapBreakMs": 400 },
+  "anim": { "type": "karaoke", "pageIn": 3, "pageOut": 3, "wordIn": 2, "emphasisScale": 1.08 },
+  "behind": { "enabled": false },
+  "legibility": { "mode": "scrim", "max": 1 }
+}

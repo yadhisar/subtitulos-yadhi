@@ -1,0 +1,127 @@
+{
+ "version": 1,
+ "language": "es",
+ "model": "fixture",
+ "words": [
+  {
+   "text": "Hola,",
+   "startMs": 400,
+   "endMs": 730,
+   "prob": 0.95
+  },
+  {
+   "text": "soy",
+   "startMs": 970,
+   "endMs": 1255,
+   "prob": 0.95
+  },
+  {
+   "text": "Yadhi.",
+   "startMs": 1315,
+   "endMs": 1690,
+   "prob": 0.95
+  },
+  {
+   "text": "En",
+   "startMs": 2200,
+   "endMs": 2440,
+   "prob": 0.95
+  },
+  {
+   "text": "Lima",
+   "startMs": 2500,
+   "endMs": 2830,
+   "prob": 0.95
+  },
+  {
+   "text": "ganas",
+   "startMs": 2890,
+   "endMs": 3265,
+   "prob": 0.95
+  },
+  {
+   "text": "cinco",
+   "startMs": 3325,
+   "endMs": 3700,
+   "prob": 0.95
+  },
+  {
+   "text": "mil",
+   "startMs": 3760,
+   "endMs": 4045,
+   "prob": 0.95
+  },
+  {
+   "text": "soles",
+   "startMs": 4105,
+   "endMs": 4480,
+   "prob": 0.95
+  },
+  {
+   "text": "al",
+   "startMs": 4540,
+   "endMs": 4780,
+   "prob": 0.95
+  },
+  {
+   "text": "mes.",
+   "startMs": 4840,
+   "endMs": 5125,
+   "prob": 0.95
+  },
+  {
+   "text": "Con",
+   "startMs": 5635,
+   "endMs": 5920,
+   "prob": 0.95
+  },
+  {
+   "text": "TikTok",
+   "startMs": 5980,
+   "endMs": 6400,
+   "prob": 0.95
+  },
+  {
+   "text": "creces",
+   "startMs": 6460,
+   "endMs": 6880,
+   "prob": 0.95
+  },
+  {
+   "text": "rápido",
+   "startMs": 6940,
+   "endMs": 7360,
+   "prob": 0.95
+  },
+  {
+   "text": "y",
+   "startMs": 7420,
+   "endMs": 7615,
+   "prob": 0.95
+  },
+  {
+   "text": "nunca",
+   "startMs": 7675,
+   "endMs": 8050,
+   "prob": 0.95
+  },
+  {
+   "text": "pierdes",
+   "startMs": 8110,
+   "endMs": 8575,
+   "prob": 0.95
+  },
+  {
+   "text": "un",
+   "startMs": 8635,
+   "endMs": 8875,
+   "prob": 0.95
+  },
+  {
+   "text": "seguidor.",
+   "startMs": 8935,
+   "endMs": 9445,
+   "prob": 0.95
+  }
+ ]
+}
